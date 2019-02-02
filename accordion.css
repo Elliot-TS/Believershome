@@ -1,0 +1,120 @@
+/* Basic Accordion Styles */
+.accordion {
+    color: #14453D;
+    cursor: pointer !important;
+}
+
+.accordion, .accordion ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.accordion ul {
+    height: 0;
+    border-radius: 0;
+    overflow: hidden;
+}
+
+.accordion li {
+    background-color: white;
+}
+
+.accordion ul li {
+    background-color: #D5EAE7;
+}
+
+.accordion li a {
+    display: block;
+    border: 1px solid #14453D;
+    border-bottom: none;
+    padding: 20px;
+    font-size: 1rem;
+    text-indent: 1.5rem;
+    text-decoration: none;
+}
+
+.accordion > li:first-child  >a {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.accordion > li:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #14453D !important;
+    border-top : none !important;
+}
+
+.accordion > li:last-child:first-child {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.accordion > li:last-child a {
+    border-bottom: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+
+
+
+/* Text indent */
+.accordion li li a {
+    text-indent: 3rem;
+}
+
+.accordion li li li a {
+    text-indent: 6rem;
+}
+
+.accordion li li li li a {
+    text-indent: 9rem;
+}
+
+.accordion li li li li li a {
+    text-indent: 12rem;
+}
+
+/* Open/Close Icon */
+.accordion li a:not(:last-child):after {
+    content: "\f103";
+    float: right;
+    line-height: 1.4;
+    font-size: 1.8rem;
+    font-family: FontAwesome;
+}
+
+.accordion li a:not(:last-child).accordion-open:after {
+    content: "\f100"
+}
+
+/* Link Type Icon */
+.accordion li a:not(:last-child):before {
+    content: "\f07b";
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    font-family: FontAwesome;
+ }
+
+.accordion li a:not(:last-child).accordion-open:before {
+    content: "\f07c";
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    font-family: FontAwesome;
+}
+
+.accordion a[href*="#"]:before, .accordion a[href*="http"]:before {
+    content: "\f08e";
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    font-family: FontAwesome;
+}
+
+.accordion a[download=""]:before {
+    content: "\f0ed";
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    font-family: FontAwesome;
+}
+
