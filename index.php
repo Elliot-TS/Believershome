@@ -16,7 +16,7 @@
 
         <div class="links">
             <a href="index.php"><div>Home</div></a>
-            <a href="christian-resources.php"><div>Christian Testingdy test test Resources</div></a>
+            <a href="christian-resources.php"><div>Christian Resources</div></a>
             <a href="bible-program.php"><div>Bible Program</div></a>
             <a href="about.php"><div>About</div></a>
             <a href="contact.php"><div>Contact</div></a>
