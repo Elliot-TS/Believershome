@@ -37,21 +37,6 @@
             </div>
         </article>
 
-		<!-- Christian Education -->
-        <article id="education">
-            <h1>Christian Education</h1>
-
-            <div class="links closeable">
-                <a href="https://www.emmaus.edu/" target="_blank">Emmaus Bible College<br />(USA)</a>
-                <a href="https://emmausinternational.com/pages/worldwide" target="_blank">Emmaus International</a>
-                <a href="https://www.sakeji.com/" target="_blank">Sakeji Mission School</a>
-				<a>Other, non brethren schools can be added here such as:</a>
-				<a>Lancaster Bible College</a>
-				<a>Messiah College</a>
-				<a>Liberty College</a>
-            </div>
-        </article>
-
         <!-- Gospel Hall -->
         <article id="gospel_hall">
             <h1>Gospel Hall Resources</h1>
@@ -71,126 +56,6 @@
             </div>
         </article>
 
-        <!-- Christian Campgrounds and Conferences -->
-        <article id="camps">
-            <h1>Christian Campgrounds and Conferences</h1>
-
-            <div class="closeable">
-				<h2>Brethren Camps</h2>
-				<div class="links closeable">
-					<a href="http://www.greenwoodhills.net/" target="_blank" class="theo_brethren">Greenwood Hills <br />(Pennsylvania)</a>
-					<a href="http://www.iroquoina.org/" target="_blank" class="theo_brethren">Camp Iroquoina <br />(Pennsylvania)</a>
-					<a href="http://www.mvbcamp.org/" target="_blank" class="theo_brethren">Mountain View Bible Camp <br />(Pennsylvania)</a>
-					<a href="https://pbbc.org/" target="_blank" class="theo_brethren warning" title="Link currently not working 11/09/18">Pine Bush <br />(New York)</a>
-					<a href="http://www.liloli.org/" target="_blank" class="theo_brethren">Camp Li-Lo-Li <br />(New York)</a>
-					<a href="http://campliloli.blogspot.com/" target="_blank" class="theo_brethren">Camp Li-Lo-Li Blog</a>
-					<a href="http://www.hortonhaven.org/" target="_blank" class="theo_brethren">Horton Haven Christian Camp <br />(Tennessee)</a>
-					<a href="https://mountaintopyouthcamp.org/" target="_blank" class="theo_brethren">Mountain Top Youth Camp <br />(North Carolina)</a>
-					<a href="http://camphopega.org/" target="_blank">Camp Hope<br />(Georgia)</a>
-					<a href="http://www.camphorizon.org/" target="_blank">Camp Horizon<br />(Florida)</a>
-					<a href="https://berea.org/" target="_blank">Camp Berea<br />(New Hapshire)</a>
-					<a href="https://www.shilohbiblecamp.com/" target="_blank">Shiloh Bible Camp<br />(Washington State)</a>
-					<a href="http://whitewaterbiblecamp.org/" target="_blank">Whitewater Bible Camp<br />(Ohio)</a>
-					<a href="http://www.turkeyhillranch.com/" target="_blank">Turkey Hll Ranch Bible Camp<br />(Missouri)</a>
-					<a href="http://www.koronisbiblecamp.com/" target="_blank">Koronis Bible Camp<br />(Minnesota)</a>
-					<a href="http://www.koinoniaconferencegrounds.org/" target="_blank">Koinonia Conference Grounds<br />(Calafornia)</a>
-					<a href="https://galileebiblecamp.on.ca/" target="_blank">Galilee Bible Camp<br />(Ontario, Canada)</a>
-				</div>
-
-				<h2>Brethren Conferences</h2>
-				<div class="links closeable">
-					<a href="http://workerselders.org/" target="_blank" class="theo_brethren">Workers and Elders Conferences</a>
-					<a href="http://sewc.info/" target="_blank" class="theo_brethren">Southeastern Workers Conference</a>
-				<a href="http://www.skylandbible.org/" target="_blank">Skyland Bible Conference</a>
-				<a href="http://centralfloridabibleconference.com/" target="_blank">Central Florida Bible Conference</a>
-				<a href="http://www.uplook.org/" target="_blank" class="caution" title="I'm not sure if this is the correct link">Uplook Current Events</a>
-				</div>
-
-				<h2>Other Christian Camps and Conference</h2>
-				<div class="links closeable">
-					<a>You could put nonbrethren camps here</a>
-				</div>
-            </div>
-        </article>
-
-        <!-- Brethren Publishers -->
-        <article id="publishers">
-            <h1>Christian Publishers and Book Shops</h1>
-
-            <div class="links closeable">
-                <a href="https://www.ritchiechristianmedia.co.uk" target="_blank">Ritchie Christian Media<br />(John Ritchie)</a>
-                <a href="http://everydaypublications.org/" target="_blank">Everyday Publications</a>
-                <a href="https://bibletruthpublishers.com/" target="_blank">Bible Truth Publishers</a>
-				<a href="http://presenttruthpublishers.com/" target="_blank">Present Truth Publishers</a>
-				<a href="https://www.chaptertwobooks.org.uk/" target="_blank">Chapter Two (UK)</a>
-				<a href="http://www.newenglandbiblesales.com/products.html" target="_blank">New England Bible Sales</a>
-				<a href="https://gospelfolio.com/" target="_blank">Gospel Folio Press</a>
-				<a href="http://www.opaltrust.org/" target="_blank">Opal Trust<br />(UK)</a>
-				<a href="http://www.gospeltractpublications.co.uk/" target="_blank">Gospel Tract Publications<br />(Scotland)</a>
-				<a href="https://www.bbusa.org/" target="_blank">Believers Bookshelf<br />(Sunbury, PA, USA)</a>
-				<a href="https://www.believersbookshelf.ca/" target="_blank">Believers Bookshelf<br />(Canada)</a>
-				<a href="http://www.lifehouse.org/default.htm" target="_blank">Christian Missions Press</a>
-            </div>
-        </article>
-
-        <!-- Brethren Magazines -->
-        <article id="magazines">
-            <h1>Christian Magazines</h1>
-
-            <div class="links closeable">
-                <a href="https://cornerstonemagazine.org/" target="_blank">Cornerstone Magazine</a>
-                <a href="https://www.emmaus.edu/ministry/journey-magazine/journey-homepage" target="_blank">Journey Magazine</a>
-                <a href="http://inthebeloved.org/assemblymessenger.htm" target="_blank">Assembly Messanger</a>
-                <a href="https://www.cw-archive.org/en/magazines" target="_blank">Christian Magazine Archive</a>
-				<a href="https://www.assemblytestimony.org/" target="_blank">Assembly Testimony</a>
-				<a href="https://www.gtpress.org/" target="_blank">Grace & Truth</a>
-				<a href="https://mwtb.org/" target="_blank">Moments with the Book</a>
-				<a href="http://www.truthandtidings.com/cgi-bin/tt" target="_blank">Truth & Tidings</a>
-				<a href="http://www.christianshepherd.org/" target="_blank">The Christian Shepherd</a>
-				<a href="https://viamagazineonline.com/" target="_blank">Via Magazine</a>
-				<a href="https://counselmagazineonline.com/" target="_blank">Councel Magazine</a>
-				<a href="http://www.saved.com/wis/" target="_blank">Words in Season</a>
-				<!-- I have excluded Believer's Magazine because a link to the author's website (which, in turn, has a link to the magazine) is included in Christian Resources -->
-            </div>
-        </article>
-
-        <!-- Brethren Audio -->
-        <article id="media">
-            <h1>Christian Media</h1>
-
-            <div class="links closeable">
-                <a href="https://voicesforchrist.org/" target="_blank">Voices for Christ<br />(Christ-Centered ministry: A library of over 50,000 MP3 files)</a>
-                <a href="http://www.jstl.org.uk/e107/" target="_blank">Joe Skelly's Tape Library</a>
-                <a href="http://www.gospelhallaudio.com/" target="_blank">Gospel Hall Audio</a>
-                <a href="http://www.promiseboxaudio.com/" target="_blank">Promise Box</a>
-                <a href="http://gospel-stories.com/" target="_blank">Short Audio Gospel Stories<br />(Harold Smith)</a>
-                <a href="http://gospel-tapes.com/" target="_blank">Audio Gospel Messages<br />(Harold Smith)</a>
-                <a href="https://floridabiblestudy.org/" target="_blank">Florida Mens' Bible Study<br />(Bernard Osborne at Camp Horizon, FL, 2009)</a>
-
-                <h2>Radio</h2>
-                <div class="closeable">
-                    <a href="https://fbhinternational.com/" target="_blank">Family Bible Hour International <br />(St. Catharines, Ontario)</a>
-                    <a href="http://www.gnnradio.org/" target="_blank">GNN <br />(Augusta, Georgia)</a>
-                    <a href="http://www.oldchristianradio.com/" target="_blank">Old Fashioned Christian Radio</a>
-                </div>
-
-                <h2>Video</h2>
-                <div class="closeable">
-                    <a href="http://jabenicholson.blogspot.com/" target="_blank">What About Heaven?<br />(JB Nicholson)</a>
-                </div>
-
-                <h2>Hymns</h2>
-                <div class="closeable">
-                    <a href="http://www.alanparks-music.com/" target="_blank" class="theo_brethren">Alen Parks Music</a>
-                    <a href="http://hymnsofworship.com/" target="_blank" class="theo_brethren">Hymns of Worship and Remembrance</a>
-                    <a href="http://www3.telus.net/eddie_w/Bhb/hymnset.html" target="_blank" class="theo_brethren">Believers' Hymn Book</a>
-                    <a href="http://share.gospelriver.com/" target="_blank">Gospel River</a>
-                    <a href="http://saintsserving.net" target="_blank">Saints Serving</a>
-                    <a href="http://www.redhymns.com/" target="_blank">Redemption Hymns<br />(New hymnbook out of New Zealand)</a>
-                </div>
-            </div>
-        </article>
-
         <!-- Christian Apologetic Sites -->
         <article id="apologetics">
             <h1>Christian Apologetic Sites</h1>
@@ -200,6 +65,20 @@
                 <a href="http://www.johnlennox.org/" target="_blank" class="theo_brethren">JohnLennox.org <br />(Science and Ethnics)</a>
                 <a href="http://www.christianevidences.org/" target="_blank">Christian Evidences Ministries</a>
                 <a href="http://www.biblearchaeology.org/" target="_blank">Associates for Bible Research<br />(Gordon Franz)</a>
+            </div>
+        </article>
+
+        <!-- Bible Software -->
+        <article id="software">
+            <h1>Bible Software</h1>
+
+            <div class="links closeable">
+                <a href="https://www.logos.com/" target="_blank">Logos Bible Software</a>
+                <a href="http://www.onlinebible.us/" target="_blank">Cross Country Bible Software</a>
+                <a href="http://www.galaxie.com/" target="_blank" class="theo_brethren">Galaxie Software <br />(Some Brethren Material)</a>
+                <a href="http://www.1shiloh.com/" target="_blank" class="theo_brethren caution" title="Site is being updated">Shiloh Christian Library <br />(Brethren Books)</a>
+                <a href="https://www.memverse.com/" target="_blank">Memverse<br />(Scripture Memory Website)</a>
+                <a href="https://biblememory.com/" target="_blank">Bible Memory</a>
             </div>
         </article>
 
