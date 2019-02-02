@@ -10,7 +10,7 @@ var header = `
                 <a>Menu</a>
                 <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="christian-resources">Christian Resources</a></li>
+                    <li><a href="christian-resources.php">Christian Resources</a></li>
                     <li><a href="bible-program.php">Bible Program</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact</a></li>
