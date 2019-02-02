@@ -16,7 +16,7 @@ main {
     margin: auto;
 }
     main > * {
-        padding: 20px calc(50vw - 400px) 20px calc(50vw - 400px);
+        padding: 20px calc(50vw - 500px) 20px calc(50vw - 500px);
     }
     main > *:nth-child(even) {
         background-color: #D5EAE7;
@@ -129,6 +129,10 @@ article h1 {
 .opencloseBtn.square {
     border-radius: 0;
 }
+.closeable {
+    padding-left: 53px !important;
+    padding-right: 53px !important;
+}
 
 form {
     margin: auto;
@@ -235,7 +239,7 @@ table {
 }
 
 
-@media only screen and (max-width:920px) {
+@media only screen and (max-width:1100px) {
     main > * {
         padding: 20px 60px;
     }

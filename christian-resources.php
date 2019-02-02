@@ -18,6 +18,7 @@
     <main>
         <div class="links">
 		<a href="brethren-resources.php">Brethren Resources</a>
+		<a href="other-resources.php">Other Christian Resources</a>
 	</div>
     </main>
 
