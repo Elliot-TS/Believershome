@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" name="viewport" content="width=device-width" />
-    <title>Christian Resources | Believershome.com</title>
+    <title>Brethren Resources | Believershome.com</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="accordion.css" />
     <link rel="stylesheet" type="text/css" href="main.css">
@@ -27,7 +27,7 @@
                     <ul>
                         <li><a href="#breth-history">Brethren History</a></li>
                         <li><a href="#assembly-map">Assembly Map</a></li>
-                        <li><a href="other-resources#gospel" target="_blank">The Gospel</a></li>
+                        <li><a href="other-resources.php#gospel" target="_blank">The Gospel</a></li>
                         <li><a href="#missions">Brethren Missions</a></li>
                         <li><a href="#resources">Biblical Resources</a></li>
                         <li><a href="#ministries">Brethren Ministries</a></li>
