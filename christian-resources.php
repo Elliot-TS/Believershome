@@ -57,7 +57,7 @@
             <p>These articles were written by prominent men associated with the brethren movement.  Used with permission.</p>
             <p>In addition to these articles, there is <a href="http://books.google.com/books/about/Who_are_the_Brethren.html?id=jtA4PQAACAAJ" target="_blank">another article</a> produced by John Barber.  It is a very thorough and up-to-date introductory essay.</p>
 
-            <secton id="who_are_the_brethren">
+            <secton id="who_are_the_brethren" class="closeable">
                 <h2>"Who Are the Brethren?" (Volume 1 by FF Bruce)</h2>
                 <div class="closeable">
                     <p>The missionary enterprise described in this and the following volumes is probably the most notable aspect of what is popularly called the Brethren movement. As the story of the missionary enterprise begins with Anthony Norris Groves and his associates, the story of the Brethren movement as a whole also begins with them.</p>
