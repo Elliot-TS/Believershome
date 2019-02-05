@@ -243,6 +243,10 @@ table {
     main > * {
         padding: 20px 60px;
     }
+    closeable {
+        padding-left: 23px;
+        padding-right: 23px;
+    }
 }
 @media only screen and (max-width:650px) {
 
