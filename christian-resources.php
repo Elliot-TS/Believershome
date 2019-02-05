@@ -380,7 +380,6 @@
                 <a href="http://www.stempublishing.com/" target="_blank">STEM (Sound Teaching on Electronic Media) Publishing</a>
                 <a href="http://brethrenpedia.org" target="_blank" class="theo_brethren">Brethrenpedia</a>
                 <a href="https://www.growingchristians.org/" target="_blank">Growing Christians Ministries<br />(Dr. David Reid)</a>
-				<a href="http://www.bibleandlife.org/" target="_blank">Bible and Life<br />(David Dunlap)</a>
 				<a href="http://www.brethrenonline.org/" target="_blank">Brethren Online</a>
                 <a href="http://williammacdonald.blogspot.com/" target="_blank" class="theo_brethren">William MacDonald Archive</a>
                 <a href="http://www.ternestwilson.com/" target="_blank" class="theo_brethren">T. Ernest Wilson Archive</a>
